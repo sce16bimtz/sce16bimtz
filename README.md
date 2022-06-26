@@ -1,6 +1,7 @@
 ### Pátria!👋
 
 **sce16bimtz/sce16bimtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Características do Sistema de Controle de Efetivo (SCE).
 <h3> TABELA DE PERMISSÕES</h3>
 <table class="table table-striped" style="width: 1187px;">
