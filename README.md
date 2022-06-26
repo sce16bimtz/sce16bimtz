@@ -16,8 +16,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <th style="width: 578px; text-align: center; height: 15px;">Delete </th>
 <th style="width: 1153px; text-align: center; height: 15px;">Disable record</th>
 <th style="width: 961px; text-align: center; height: 15px;">Enable record</th>
-<th style="width: 730px; text-align: center; height: 15px;">Tables</th>
-<th style="width: 782px; text-align: center; height: 15px;">Back end</th>
 </tr>
 </thead>
 <tbody>
@@ -31,8 +29,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;">x</td>
 <td style="width: 1153px; height: 15px; text-align: left;">x </td>
 <td style="width: 961px; height: 15px; text-align: left;">x</td>
-<td style="width: 730px; height: 15px; text-align: left;">x</td>
-<td style="width: 782px; height: 15px; text-align: left;"> x</td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">Cmt 16º BI Mtz</td>
@@ -44,8 +40,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;">x</td>
 <td style="width: 1153px; height: 15px; text-align: left;">x</td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;">x</td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px;">1ª Seção</td>
@@ -57,8 +51,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;">x </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x</td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px;">2ª Seção</td>
@@ -70,8 +62,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x</td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">3ª Seção</td>
@@ -83,8 +73,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x</td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">1ª Cia Fuz</td>
@@ -96,8 +84,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x</td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">1ª Cia Fuz</td>
@@ -109,8 +95,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x</td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 16.4583px;">
 <td style="width: 1144.09px; height: 16.4583px; text-align: left;">2ª Cia Fuz</td>
@@ -122,8 +106,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 16.4583px; text-align: left;"> </td>
 <td style="width: 1153px; height: 16.4583px; text-align: left;">x</td>
 <td style="width: 961px; height: 16.4583px; text-align: left;"> </td>
-<td style="width: 730px; height: 16.4583px; text-align: left;"> </td>
-<td style="width: 782px; height: 16.4583px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">2ª Cia Fuz</td>
@@ -135,8 +117,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x</td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">Cia C Ap</td>
@@ -148,8 +128,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x </td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">Cia C Ap</td>
@@ -161,8 +139,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x </td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">NPOR</td>
@@ -174,8 +150,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x </td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">NPOR</td>
@@ -187,8 +161,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x </td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">CFGS</td>
@@ -200,8 +172,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x </td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> x</td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">CFGS</td>
@@ -213,8 +183,6 @@ Características do Sistema de Controle de Efetivo (SCE).
 <td style="width: 578px; height: 15px; text-align: left;"> </td>
 <td style="width: 1153px; height: 15px; text-align: left;">x</td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
-<td style="width: 730px; height: 15px; text-align: left;"> </td>
-<td style="width: 782px; height: 15px; text-align: left;"> </td>
 </tr>
 </tbody>
 </table>
