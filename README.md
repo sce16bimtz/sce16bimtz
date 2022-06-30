@@ -1,6 +1,4 @@
 # Pátria!👋
-
-
 **sce16bimtz/sce16bimtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 1 - CARACTERÍSTICAS DO SISTEMA DE CONTROLE DE EFETIVO.
@@ -18,13 +16,13 @@
 #### - Distribuição do pessoal por função (diferente de cargo militar - QCP), dentro da OM;
 #### - Cartão de vacinação;
 #### - Aba para o controle de FO;
-#### - A maioria das informações podem ser obtidas diretamente no campo de pesquisa;
+#### - A maioria das consultas podem ser feitas diretamente no campo de pesquisa;
 #### - A ferramenta está sendo entregue com a carga básica do SICAPEx, cabendo ao operador da SU/Sgte o lançamento dos dados dentro das demais abas.
-#### - Permite a transferência do militar de uma para outra SU, levando todas as suas informações;
+#### - Permite a transferência do militar de uma para outra SU, transportando consigo todas as informações na base de dados;
 
-## 2 - ASPECTOS QUE PODEM SER MELHORADOS
+## 2 - ASPECTOS QUE PODEM SER APRIMORADOS
 ### - Conversão lower case to upper case;
-### - Aprimoramento dos perfis
+### - Aprimoramento dos perfis de visualização;
 
 ## 3 - TABELA DE PERMISSÕES
 <table class="table table-striped" style="width: 1187px;">
