@@ -1,9 +1,9 @@
-### Pátria!👋
+# Pátria!👋
 
 
 **sce16bimtz/sce16bimtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Características do Sistema de Controle de Efetivo (SCE).
+## Características do Sistema de Controle de Efetivo (SCE).
 ### Ferramennta de controle de efetivo do Sgte;
 ### Não rivaliza com os sistemas corporativos em uso na força;
 ### Embora permita o controle de praticamente todos os dados que o SICAPEx controla, tem proposta diferente;
