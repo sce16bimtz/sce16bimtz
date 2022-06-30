@@ -243,6 +243,7 @@
 </tbody>
 </table>
 <p>  <img src="images/bd.png" alt="" /></p>
+
 ## - 4 CONFIGURAÇÕES
 <table class="table table-striped" style="width: 1187px;">
 <thead>
