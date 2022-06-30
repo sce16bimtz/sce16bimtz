@@ -26,8 +26,7 @@
 ### - Conversão lower case to upper case;
 ### - Aprimoramento dos perfis
 
-
-<h3> TABELA DE PERMISSÕES</h3>
+## 3 - TABELA DE PERMISSÕES
 <table class="table table-striped" style="width: 1187px;">
 <thead>
 <tr style="height: 15px;">
