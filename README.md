@@ -4,8 +4,9 @@
 **sce16bimtz/sce16bimtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Características do Sistema de Controle de Efetivo (SCE).
-### 1. Ferramennta de controle de efetivo do Sgte;
+### 1. Concebido como a ferramennta de controle de efetivo do Sgte;
 ### 2. Não rivaliza com os sistemas corporativos em uso na força;
+### 3. Devido ao grande volume de dados manipulados não foi considerada a hipótese de disponibilizar as consultas para o público interno;
 ### 3. Embora permita o controle de praticamente todos os dados que o SICAPEx controla, tem proposta diferente:
 #### - Ferramenta de consulta apenas para o Cmt OM e para o Ch 1ª Seção;
 #### - Ferramenta de controle diário para os demais;
@@ -14,6 +15,11 @@
 #### - Distribuição do pessoal por função (diferente de cargo militar - QCP), dentro da OM;
 #### - Cartão de vacinação;
 #### - Aba para o controle de FO;
+#### - A maioria das informações podem ser obtidas diretamente no campo de pesquisa;
+
+## Aspectos qu precisam ser melhorados:
+### - Conversão lower case to upper case;
+### - Aprimoramento dos perfis
 
 
 <h3> TABELA DE PERMISSÕES</h3>
