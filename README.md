@@ -244,7 +244,7 @@
 </table>
 <p>  <img src="images/bd.png" alt="" /></p>
 
-## - 4 CONFIGURAÇÕES
+## 4 - ESPECIFICAÇÕES TÉCNICAS
 <table class="table table-striped" style="width: 1187px;">
 <thead>
 <tr>
