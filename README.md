@@ -175,6 +175,28 @@
 <td style="width: 1153px; height: 15px; text-align: left;">x </td>
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
 </tr>
+  <tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">NPOR</td>
+<td style="width: 10px; height: 15px;"> instr1npor</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x </td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+  <tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">NPOR</td>
+<td style="width: 10px; height: 15px;"> instr2npor</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x </td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x </td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">NPOR</td>
 <td style="width: 10px; height: 15px;"> sgtenpor</td>
@@ -200,6 +222,17 @@
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">CFGS</td>
 <td style="width: 10px; height: 15px;"> sgtecfgs</td>
+<td style="width: 674px; height: 15px;">root</td>
+<td style="width: 621px; height: 15px; text-align: left;">x</td>
+<td style="width: 830px; height: 15px; text-align: left;">x</td>
+<td style="width: 723px; height: 15px; text-align: left;">x</td>
+<td style="width: 578px; height: 15px; text-align: left;"> </td>
+<td style="width: 1153px; height: 15px; text-align: left;">x</td>
+<td style="width: 961px; height: 15px; text-align: left;"> </td>
+</tr>
+  <tr style="height: 15px;">
+<td style="width: 1144.09px; height: 15px; text-align: left;">B Mus</td>
+<td style="width: 10px; height: 15px;"> sgtebanda</td>
 <td style="width: 674px; height: 15px;">root</td>
 <td style="width: 621px; height: 15px; text-align: left;">x</td>
 <td style="width: 830px; height: 15px; text-align: left;">x</td>
