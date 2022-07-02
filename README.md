@@ -24,6 +24,20 @@
 ### - Conversão lower case to upper case;
 ### - Aprimoramento dos perfis de visualização;
 
+## 3 - GRUPOS DE DADOS NO FORMULÁRIO
+### - DADOS BÁSICOS;
+### - INFORMAÇÕES PESSOAIS;
+### - DEPENDENTES;
+### - CNH;
+### - TÍTULO DE ELEITOR;
+### - DADOS BANCÁRIOS;
+### - FATOS OBSERVADOS;
+### - FICHA DISCIPLINAR;
+### - CURSOS ESTÁGIOS;
+### - ESTÁGIOS SETORIAIS CGCFEX;
+### - VEÍCULOS QUE POSSUE;
+### - OUTRAS;
+
 ## 3 - TABELA DE PERMISSÕES
 <table class="table table-striped" style="width: 1187px;">
 <thead>
