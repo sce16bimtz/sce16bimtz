@@ -36,11 +36,11 @@
 - ⚡ FATOS OBSERVADOS
 - 🔭 CURSOS|ESTÁGIOS
 - 🌱 CONTROLE SANITÁRIO
-- 👯 CARTÃO DE VACINA DO AL NPOR
+- 👯 CARTÃO DE VACINA (NPOR)
 - 🤔 CONTROLE DE FÉRIAS
 - 💬 VEÍCULOS QUE POSSUE
-- 📫 TIB|Fz 7.62
-- 😄 TAF
+- 📫 TIB|Fz 7.62 (NPOR)
+- 😄 TAF (TAF)
 
 ## 3 - TABELA DE PERMISSÕES
 <table class="table table-striped" style="width: 1187px;">
