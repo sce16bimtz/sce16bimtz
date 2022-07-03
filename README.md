@@ -25,21 +25,22 @@
 ### - Aprimoramento dos perfis de visualização;
 
 ## 3 - GRUPOS DE DADOS NO FORMULÁRIO
-### - DADOS BÁSICOS;
-#### - Posto/Grad
-#### - Arma/Quadro/Serviço
 
-### - INFORMAÇÕES PESSOAIS;
-### - DEPENDENTES;
-### - CNH;
-### - TÍTULO DE ELEITOR;
-### - DADOS BANCÁRIOS;
-### - FATOS OBSERVADOS;
-### - FICHA DISCIPLINAR;
-### - CURSOS ESTÁGIOS;
-### - ESTÁGIOS SETORIAIS CGCFEX;
-### - VEÍCULOS QUE POSSUE;
-### - OUTRAS;
+### - DADOS BÁSICOS
+### - INFORMAÇÕES PESSOAIS
+### - TÍTULO DE ELEITOR
+### - CNH
+### - DADOS BANCÁRIOS
+### - DEPENDENTES
+### - FICHA DISCIPLINAR
+### - FATOS OBSERVADOS
+### - CURSOS|ESTÁGIOS
+### - CONTROLE SANITÁRIO
+### - CARTÃO DE VACINA DO AL NPOR
+### - CONTROLE DE FÉRIAS
+### - VEÍCULOS QUE POSSUE
+### - TIB|Fz 7.62
+### - TAF 
 
 ## 3 - TABELA DE PERMISSÕES
 <table class="table table-striped" style="width: 1187px;">
