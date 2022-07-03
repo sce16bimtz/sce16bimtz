@@ -26,29 +26,21 @@
 
 ## 3 - GRUPOS DE DADOS NO FORMULÁRIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- DADOS BÁSICOS
-### - INFORMAÇÕES PESSOAIS
-### - TÍTULO DE ELEITOR
-### - CNH
-### - DADOS BANCÁRIOS
-### - DEPENDENTES
-### - FICHA DISCIPLINAR
-### - FATOS OBSERVADOS
-### - CURSOS|ESTÁGIOS
-### - CONTROLE SANITÁRIO
-### - CARTÃO DE VACINA DO AL NPOR
-### - CONTROLE DE FÉRIAS
-### - VEÍCULOS QUE POSSUE
-### - TIB|Fz 7.62
-### - TAF 
+- 🔭 DADOS BÁSICOS
+- 🌱 INFORMAÇÕES PESSOAIS
+- 👯 TÍTULO DE ELEITOR
+- 🤔 CNH
+- 💬 DADOS BANCÁRIOS
+- 📫 DEPENDENTES
+- 😄 FICHA DISCIPLINAR
+- ⚡ FATOS OBSERVADOS
+- 🔭 CURSOS|ESTÁGIOS
+- 🌱 CONTROLE SANITÁRIO
+- 👯 CARTÃO DE VACINA DO AL NPOR
+- 🤔 CONTROLE DE FÉRIAS
+- 💬 VEÍCULOS QUE POSSUE
+- 📫 TIB|Fz 7.62
+- 😄 TAF
 
 ## 3 - TABELA DE PERMISSÕES
 <table class="table table-striped" style="width: 1187px;">
