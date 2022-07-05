@@ -42,6 +42,24 @@
 - 📫 TIB|Fz 7.62 (NPOR)
 - 😄 TAF (TAF)
 
+## 3 - GRUPOS DE DADOS NO FORMULÁRIO
+
+- 🔭 PROFESP é tratado como destino, não como Pel ou SU;
+- 🌱 Agregado, Encostado e Adido são tratados como destinos e agrupados em consultas no Menu Situaçãoes especiais.
+- 👯 ST Artur deveria estar lotado no Pel Mnt Trnp e ter como destino ou Função o Profesp a exemplo do Sgt Kaio.
+- 🤔 CNH
+- 💬 DADOS BANCÁRIOS
+- 📫 DEPENDENTES
+- 😄 FICHA DISCIPLINAR
+- ⚡ FATOS OBSERVADOS
+- 🔭 CURSOS|ESTÁGIOS
+- 🌱 CONTROLE SANITÁRIO
+- 👯 CARTÃO DE VACINA (NPOR)
+- 🤔 CONTROLE DE FÉRIAS
+- 💬 VEÍCULOS QUE POSSUE
+- 📫 TIB|Fz 7.62 (NPOR)
+- 😄 TAF (TAF)
+
 ## 3 - TABELA DE PERMISSÕES
 <table class="table table-striped" style="width: 1187px;">
 <thead>
