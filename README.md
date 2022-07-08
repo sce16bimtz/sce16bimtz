@@ -23,6 +23,9 @@
 ## 2 - ASPECTOS QUE PODEM SER APRIMORADOS
 ### - Conversão lower case to upper case;
 ### - Aprimoramento dos perfis de visualização;
+### - Visualização de datas no formato dd/mm/aaaa;
+### - Armazenamento no banco de dados no formato 0000-00-00;
+### - Campo de pesquisa não funciona nos campos de datas formatados com 0000-00-00
 
 ## 3 - GRUPOS DE DADOS NO FORMULÁRIO
 
