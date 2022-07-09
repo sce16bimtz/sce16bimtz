@@ -29,7 +29,7 @@
 #### - A ferramenta está sendo entregue com a carga básica do SICAPEx, cabendo ao operador da SU/Sgte, o lançamento dos demais dados nas abas (grupos) correspondentes;
 #### - Permite a transferência do militar de uma para outra SU, transportando com ele todas as informações existentes na base de dados;
 #### - Todo militar no SCE16 tem pelo menos Posto|Grad, Nome, Nome de guerra, SU e CPF (conjunto mínimo de dados para lançamento no sistema);
-#### - O campo CPF identfica o militar no sistema e é único. Isso garante que não haverá um militar cadastrado simultanemente pela 1ª e pela 2ª Cia Fuz (por esemplo);
+#### - O campo CPF identfica o militar no sistema e é único. Isso garante que não haverá um militar cadastrado simultanemente pela 1ª e pela 2ª Cia Fuz (por exemplo);
 
 ## 2 - ASPECTOS QUE PODEM SER APRIMORADOS
 ### a. Conversão lower case to upper case;
@@ -180,7 +180,7 @@
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">2ª Cia Fuz</td>
-<td style="width: 10px; height: 15px;">sgte2ciafuz</td>
+<td style="width: 10px; height: 15px;background-color:powderblue;">sgte2ciafuz</td>
 <td style="width: 674px; height: 15px;">root</td>
 <td style="width: 621px; height: 15px; text-align: left;">x</td>
 <td style="width: 830px; height: 15px; text-align: left;">x </td>
