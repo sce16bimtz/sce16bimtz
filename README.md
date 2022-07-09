@@ -116,7 +116,7 @@
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px;">2ª Seção</td>
-<td style="width: 10px; height: 15px;"> ch2secao</td>
+<td style="width: 10px; height: 15px;"></td>
 <td style="width: 674px; height: 15px;"></td>
 <td style="width: 621px; height: 15px; text-align: left;"></td>
 <td style="width: 830px; height: 15px; text-align: left;"></td>
