@@ -55,7 +55,6 @@
 - 💬 VEÍCULOS QUE POSSUE
 - 📫 TIB|Fz 7.62 (NPOR)
 - 😄 TAF (TAF)
-- <font color=\"red\">Texto com cor vermelha</font> 
 
 ## 3 - GRUPOS DE DADOS NO FORMULÁRIO
 
