@@ -13,7 +13,7 @@
 #### - Ferramenta de controle diário para os demais;
 #### - Ao S1 e o Sgt Brigada, permitirá o controle da distribuição do efetivo por SU;
 #### - Aos Sargenteantes das SU, permitirá o controle da distribuição do pessoal:
-##### - <mark>SU</mark>SU/Pel|Sç|Fr;
+##### - SU/Pel|Sç|Fr;
 ##### - SU/Função;
 ##### - SU/Destino;
 ##### - SU/Estado civil;
