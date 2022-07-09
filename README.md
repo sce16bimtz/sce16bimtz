@@ -1,8 +1,8 @@
 # Pátria!👋
 **sce16bimtz/sce16bimtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 1 - CARACTERÍSTICAS DO SISTEMA DE CONTROLE DE PESSOAL.
-### a. Foi concebido como a ferramenta de controle diário de efetivo do Sgte;
+## 1 - CARACTERÍSTICAS DO SISTEMA DE CONTROLE DE EFETIVO
+### a. Foi concebido como a ferramenta de `controle diário` de efe/marktivo do Sgte;
 ### b. Nenhum sistema é perfeito, ou faz tudo, ou nos dá tudo;
 ### c. Todo sistema faz aquilo que foi projetado para fazer;
 ### d. Como todo o sistema, o sce16bimtz também tem limitações;
