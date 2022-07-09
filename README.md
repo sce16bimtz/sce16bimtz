@@ -375,4 +375,24 @@
 
 
 Criação	Resultado
-<table border=\"1\"><tr><th align=\"right\">Mês</th><th align=\"left\">Poupança</th></tr><tr><td align=\"right\">Janeiro</td><td align=\"left\">$100</td></tr><tr><td align=\"right\">Fevereiro</td><td align=\"left\">$80</td></tr></table>
+<table border=\"1\">
+  <tr>
+    <th align=\"right\">Mês</th>
+    <th align=\"left\">Poupança</th>
+  </tr>
+  <tr>
+    <td align=\"right\">Janeiro</td>
+    <td align=\"left\">$100</td>
+  </tr>
+  <tr>
+    <td align=\"right\">Fevereiro</td>
+    <td align=\"left\">$80</td>
+  </tr>
+</table>
+
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+|     |     |     |
+|     |     |     |
