@@ -168,15 +168,15 @@
 <td style="width: 961px; height: 15px; text-align: left;"> </td>
 </tr>
 <tr style="height: 16.4583px;">
-<td style="width: 1144.09px; height: 16.4583px; text-align: left;">2ª Cia Fuz</td>
-<td style="width: 10px; height: 16.4583px; text-align: left; color:red;">cmt2ciafuz</td>
+<td style="width: 1144.09px; height: 16.4583px; text-align: center;">2ª Cia Fuz</td>
+<td style="width: 10px; height: 16.4583px; text-align: center;">cmt2ciafuz</td>
 <td style="width: 674px; height: 16.4583px;">root</td>
-<td style="width: 621px; height: 16.4583px; text-align: left;">x</td>
-<td style="width: 830px; height: 16.4583px; text-align: left;">x</td>
-<td style="width: 723px; height: 16.4583px; text-align: left;">x</td>
-<td style="width: 578px; height: 16.4583px; text-align: left;"> </td>
-<td style="width: 1153px; height: 16.4583px; text-align: left;">x</td>
-<td style="width: 961px; height: 16.4583px; text-align: left;"> </td>
+<td style="width: 621px; height: 16.4583px; text-align: center;">x</td>
+<td style="width: 830px; height: 16.4583px; text-align: center;">x</td>
+<td style="width: 723px; height: 16.4583px; text-align: center;">x</td>
+<td style="width: 578px; height: 16.4583px; text-align: center;"> </td>
+<td style="width: 1153px; height: 16.4583px; text-align: center;">x</td>
+<td style="width: 961px; height: 16.4583px; text-align: center;"> </td>
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">2ª Cia Fuz</td>
