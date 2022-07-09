@@ -180,7 +180,7 @@
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">2ª Cia Fuz</td>
-<td style="width: 10px; height: 15px;background-color:powderblue;">sgte2ciafuz</td>
+<td style="width: 10px; height: 15px;"><span style:"background-color:powderblue;">sgte2ciafuz</span></td>
 <td style="width: 674px; height: 15px;">root</td>
 <td style="width: 621px; height: 15px; text-align: left;">x</td>
 <td style="width: 830px; height: 15px; text-align: left;">x </td>
