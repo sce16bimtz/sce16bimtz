@@ -32,7 +32,7 @@
 #### - O campo CPF identfica o militar no sistema e é único. Isso garante que não haverá um militar cadastrado simultanemente pela 1ª e pela 2ª Cia Fuz (por exemplo);
 
 ## 2 - ASPECTOS QUE PODEM SER APRIMORADOS
-### a. Conversão lower case to upper case;
+### a. Conversão lower case to upper case; {c:red}texto vermelho.{/c}
 ### b. Aprimoramento dos perfis de visualização;
 ### c. Visualização de datas no formato dd/mm/aaaa;
 ### d. Armazenamento no banco de dados no formato 0000-00-00;
