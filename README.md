@@ -13,7 +13,7 @@
 #### - Ferramenta de controle diário para os demais;
 #### - Ao S1 e o Sgt Brigada, permitirá o controle da distribuição do efetivo por SU;
 #### - Aos Sargenteantes das SU, permitirá o controle da distribuição do pessoal:
-##### - SU/Pel|Sç|Fr;
+##### - [fa=check-circle /]SU/Pel|Sç|Fr;
 ##### - SU/Função;
 ##### - SU/Destino;
 ##### - SU/Estado civil;
@@ -180,7 +180,7 @@
 </tr>
 <tr style="height: 15px;">
 <td style="width: 1144.09px; height: 15px; text-align: left;">2ª Cia Fuz</td>
-<td style="width: 10px; height: 15px;color:blue;">{c:red}texto vermelho.{/c}sgte2ciafuz</td>
+<td style="width: 10px; height: 15px;color:blue;">sgte2ciafuz</td>
 <td style="width: 674px; height: 15px;">root</td>
 <td style="width: 621px; height: 15px; text-align: left;">x</td>
 <td style="width: 830px; height: 15px; text-align: left;">x </td>
