@@ -23,11 +23,11 @@
 #### - O campo CPF identfica o militar no sistema e é único. Isso garante que não haverá um militar cadastrado simultanemente pela 1ª e pela 2ª Cia Fuz (por esemplo);
 
 ## 2 - ASPECTOS QUE PODEM SER APRIMORADOS
-### - Conversão lower case to upper case;
-### - Aprimoramento dos perfis de visualização;
-### - Visualização de datas no formato dd/mm/aaaa;
-### - Armazenamento no banco de dados no formato 0000-00-00;
-### - Campo de pesquisa não funciona nos campos de datas formatados com 0000-00-00
+### a. Conversão lower case to upper case;
+### b. Aprimoramento dos perfis de visualização;
+### c. Visualização de datas no formato dd/mm/aaaa;
+### d. Armazenamento no banco de dados no formato 0000-00-00;
+### e. Campo de pesquisa não funciona nos campos de datas formatados com 0000-00-00
 
 ## 3 - GRUPOS DE DADOS NO FORMULÁRIO
 
