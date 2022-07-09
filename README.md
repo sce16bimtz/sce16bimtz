@@ -11,8 +11,17 @@
 ### g. Embora permita o controle de praticamente todos os dados que o SICAPEx controla, tem proposta diferente:
 #### - Ferramenta de consulta apenas para o Cmt OM e para o Ch 1ª Seção;
 #### - Ferramenta de controle diário para os demais;
-#### - Distribuição do efetivo por SU;
-#### - Distribuição por Pel/Sç/Fr;
+#### - Para o S1 e o Sgt Brigada, permitirá o controle da distribuição do efetivo por SU;
+#### - Para os Sgte, permitirá o controle da distribuição do pessoal:
+##### - SU/Pel/Sç|Fr;
+##### - SU/Função;
+##### - SU/Destino;
+##### - SU/Estado civil;
+##### - SU/Escolaridade;
+##### - SU/Religião;
+##### - SU/Grupo sanguíneo;
+##### - SU/Cat CNH;
+##### - SU/...
 #### - Distribuição do pessoal por função (diferente de cargo militar - QCP), dentro da OM;
 #### - Cartão de vacinação;
 #### - Aba para o controle de FO;
