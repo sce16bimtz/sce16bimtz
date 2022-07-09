@@ -12,7 +12,7 @@
 #### - Ferramenta de consulta apenas para o Cmt OM e para o Ch 1ª Seção;
 #### - Ferramenta de controle diário para os demais;
 #### - Ao S1 e o Sgt Brigada, permitirá o controle da distribuição do efetivo por SU;
-#### - Aos Sargenteantes das SU, permitirá o controle da distribuição do pessoal:
+#### - Aos Sargenteantes das SU, permitirá o <kbd>controle</kbd> da distribuição do pessoal:
 ##### - <kbd>SU/Pel|Sç|Fr</kbd>;
 ##### - SU/Função;
 ##### - SU/Destino;
