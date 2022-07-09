@@ -19,7 +19,7 @@
 #### - A maior parte dos dados que se deseja consultar, pode ser obtida diretamente através do campo de pesquisa;
 #### - A ferramenta está sendo entregue com a carga básica do SICAPEx, cabendo ao operador da SU/Sgte, o lançamento dos demais dados nas abas (grupos) correspondentes;
 #### - Permite a transferência do militar de uma para outra SU, transportando com ele todas as informações existentes na base de dados;
-#### - Todo militar no SCE16 tem pelo menos Posto|Grad, Nome, Nome de guerra, SU e CPF (conjunto mínimo de dados para lançamento do no sistema);
+#### - Todo militar no SCE16 tem pelo menos Posto|Grad, Nome, Nome de guerra, SU e CPF (conjunto mínimo de dados para lançamento no sistema);
 #### - O campo CPF identfica o militar no sistema e é único. Portanto não haverá um militar cadastrado em duplicidade;
 
 ## 2 - ASPECTOS QUE PODEM SER APRIMORADOS
