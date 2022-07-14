@@ -11,7 +11,7 @@
 ### g. Embora permita o controle de praticamente todos os dados que o SICAPEx controla, tem proposta diferente:
 #### - Ferramenta de consulta apenas para o Cmt OM e para o Ch 1ª Seção;
 #### - Ferramenta de controle diário para os demais;
-#### - Ao S1 e o Sgt Brigada, permitirá o controle da distribuição do efetivo por SU;
+#### - Ao S1 e ao Sgt Brigada, permitirá o controle da distribuição do efetivo por SU;
 #### - Aos Sargenteantes das SU, permitirá o <kbd>controle</kbd> da distribuição do pessoal:
 ##### - SU/Pel|Sç|Fr;
 ##### - SU/Função;
@@ -22,6 +22,8 @@
 ##### - SU/Grupo sanguíneo;
 ##### - SU/Cat CNH;
 ##### - SU/Tipo de veículo que possui (Carro|Moto);
+##### - SU/Banco onde o militar possui conta.
+##### - SU/Bairro onde mora o militar
 #### - Distribuição do pessoal por função (diferente de cargo militar - QCP), dentro da OM;
 #### - Cartão de vacinação;
 #### - Aba para o controle de FO;
@@ -40,21 +42,27 @@
 
 ## 3 - GRUPOS DE DADOS NO FORMULÁRIO
 
-- 🔭 DADOS BÁSICOS
-- 🌱 INFORMAÇÕES PESSOAIS
-- 👯 TÍTULO DE ELEITOR
-- 🤔 CNH
-- 💬 DADOS BANCÁRIOS
-- 📫 DEPENDENTES
-- 😄 FICHA DISCIPLINAR
-- ⚡ FATOS OBSERVADOS
-- 🔭 CURSOS|ESTÁGIOS
-- 🌱 CONTROLE SANITÁRIO
-- 👯 CARTÃO DE VACINA (NPOR)
-- 🤔 CONTROLE DE FÉRIAS
-- 💬 VEÍCULOS QUE POSSUE
-- 📫 TIB|Fz 7.62 (NPOR)
-- 😄 TAF (TAF)
+#### - DADOS FUNCIONAIS
+#### - DADOS PESSOAIS
+#### - DADOS COMPLEMENTARES
+#### - DADOS BANCÁRIOS
+#### - TÍTULO DE ELEITOR
+#### - CNH
+#### - VEÍCULOS QUE POSSUE
+#### - DEPENDENTES
+#### - CAVEIRINHA
+#### - CONTROLE FATD
+#### - FICHA DISCIPLINAR
+#### - VISITA MÉDICA
+#### - CARTÃO DE VACINA
+#### - TAF
+#### - CURSOS|ESTÁGIOS
+#### - PLANO DE CHAMADA
+#### - MARCHAS
+#### - DESTAQUES
+#### - OUTRAS INFORMAÇÕES
+#### - PLANO DE FÉRIAS
+#### - EXCLUSÃO 
 
 ## 3 - GRUPOS DE DADOS NO FORMULÁRIO
 
