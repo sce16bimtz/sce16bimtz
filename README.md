@@ -28,7 +28,7 @@
 #### - Cartão de vacinação;
 #### - Aba para o controle de FO;
 #### - Aba para o controle de FATD;
-#### - Aba para o controle de Punições (Ficha Disciplinat Digital);
+#### - Aba para o controle de Punições (Ficha Disciplinar Digital);
 #### - A maior parte dos dados que se deseja consultar, pode ser obtida diretamente através do campo de pesquisa;
 #### - A ferramenta está sendo entregue com a carga básica do SICAPEx, cabendo ao operador da SU/Sgte, o lançamento dos demais dados nas abas (grupos) correspondentes;
 #### - Permite a transferência do militar de uma para outra SU, transportando com ele todas as informações existentes na base de dados;
