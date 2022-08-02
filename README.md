@@ -9,10 +9,10 @@
 ### e. Não rivaliza com os sistemas corporativos em uso na força;
 ### f. Devido ao grande volume de dados manipulados não foi considerada a hipótese de disponibilizar as consultas para o público interno;
 ### g. Embora permita o controle de praticamente todos os dados que o SICAPEx controla, tem proposta diferente:
-#### - Ferramenta de consulta apenas para o Cmt OM e para o Ch 1ª Seção;
-#### - Ferramenta de controle diário para os demais;
-#### - Ao S1 e ao Sgt Brigada, permitirá o controle da distribuição do efetivo por SU;
-#### - Aos Sargenteantes das SU, permitirá o <kbd>controle</kbd> da distribuição do pessoal:
+#### 1 - Ferramenta de consulta apenas para o Cmt OM e para o Ch 1ª Seção;
+#### 2 - Ferramenta de controle diário para os demais;
+#### 3 - Ao S1 e ao Sgt Brigada, permitirá o controle da distribuição do efetivo por SU;
+#### 4 - Aos Sargenteantes das SU, permitirá o <kbd>controle</kbd> da distribuição do pessoal:
 ##### - SU/Pel|Sç|Fr;
 ##### - SU/Função;
 ##### - SU/Destino;
@@ -24,16 +24,16 @@
 ##### - SU/Tipo de veículo que possui (Carro|Moto);
 ##### - SU/Banco onde o militar possui conta.
 ##### - SU/Bairro onde mora o militar
-#### - Distribuição do pessoal por função (diferente de cargo militar - QCP), dentro da OM;
-#### - Cartão de vacinação;
-#### - Aba para o controle de FO;
-#### - Aba para o controle de FATD;
-#### - Aba para o controle de Punições (Ficha Disciplinar Digital);
-#### - A maior parte dos dados que se deseja consultar, pode ser obtida diretamente através do campo de pesquisa;
-#### - A ferramenta está sendo entregue com a carga básica do SICAPEx, cabendo ao operador da SU/Sgte, o lançamento dos demais dados nas abas (grupos) correspondentes;
-#### - Permite a transferência do militar de uma para outra SU, transportando com ele todas as informações existentes na base de dados;
-#### - Todo militar no SCE16 tem pelo menos Posto|Grad, Nome, Nome de guerra, SU e CPF (conjunto mínimo de dados para lançamento no sistema);
-#### - O campo CPF identfica o militar no sistema e é único. Isso garante que não haverá um militar cadastrado simultanemente pela 1ª e pela 2ª Cia Fuz (por exemplo);
+#### 5 - Distribuição do pessoal por função (diferente de cargo militar - QCP), dentro da OM;
+#### 6 - Cartão de vacinação;
+#### 7 - Aba para o controle de FO;
+#### 8 - Aba para o controle de FATD;
+#### 9 - Aba para o controle de Punições (Ficha Disciplinar Digital);
+#### 10 - A maior parte dos dados que se deseja consultar, pode ser obtida diretamente através do campo de pesquisa;
+#### 11 - A ferramenta está sendo entregue com a carga básica do SICAPEx, cabendo ao operador da SU/Sgte, o lançamento dos demais dados nas abas (grupos) correspondentes;
+#### 12 - Permite a transferência do militar de uma para outra SU, transportando com ele todas as informações existentes na base de dados;
+#### 13 - Todo militar no SCE16 tem pelo menos Posto|Grad, Nome, Nome de guerra, SU e CPF (conjunto mínimo de dados para lançamento no sistema);
+#### 14 - O campo CPF identfica o militar no sistema e é único. Isso garante que não haverá um militar cadastrado simultanemente pela 1ª e pela 2ª Cia Fuz (por exemplo);
 
 ## 2 - ASPECTOS QUE PODEM SER APRIMORADOS
 ### a. Conversão lower case to upper case;
