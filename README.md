@@ -373,36 +373,4 @@
 </tbody>
 </table>
 
-- 💬 I’m currently working on ...
-- 💬 I’m currently learning ...
-- 💬 I’m looking to collaborate on ...
-- 💬 I’m looking for help with ...
-- 💬 Ask me about ...
-- 💬 How to reach me: ...
-- 💬 Pronouns: ...
-- 💬 Fun fact: ...
 
-
-
-Criação	Resultado
-<table border=\"1\">
-  <tr>
-    <th align=\"right\">Mês</th>
-    <th align=\"left\">Poupança</th>
-  </tr>
-  <tr>
-    <td align=\"right\">Janeiro</td>
-    <td align=\"left\">$100</td>
-  </tr>
-  <tr>
-    <td align=\"right\">Fevereiro</td>
-    <td align=\"left\">$80</td>
-  </tr>
-</table>
-
-
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
-|     |     |     |
-|     |     |     |
