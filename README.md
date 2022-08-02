@@ -44,9 +44,9 @@
 
 ## 3 - GRUPOS DE DADOS NO FORMULÁRIO
 
-#### - DADOS FUNCIONAIS
-#### - DADOS PESSOAIS
-#### - DADOS COMPLEMENTARES
+#### - INFORMAÇÕES FUNCIONAIS
+#### - INFORMAÇÕES PESSOAIS
+#### - INFORMAÇÕES COMPLEMENTARES
 #### - DADOS BANCÁRIOS
 #### - TÍTULO DE ELEITOR
 #### - CNH
@@ -58,7 +58,7 @@
 #### - VISITA MÉDICA
 #### - CARTÃO DE VACINA
 #### - TAF
-#### - CURSOS|ESTÁGIOS
+#### - CURSOS|ESTÁGIOS|IDIOMAS
 #### - PLANO DE CHAMADA
 #### - MARCHAS
 #### - DESTAQUES
@@ -66,25 +66,13 @@
 #### - PLANO DE FÉRIAS
 #### - EXCLUSÃO 
 
-## 3 - GRUPOS DE DADOS NO FORMULÁRIO
+## 4 - GRUPOS DE DADOS NO FORMULÁRIO
 
 - PROFESP é tratado como destino, não como Pel ou SU;
 - Agregado, Encostado e Adido são tratados como destinos e agrupados em consultas no menu Situações especiais.
 - ST Artur deveria estar lotado no Pel Mnt Trnp e ter como destino ou função o Profesp a exemplo do Sgt Kaio.
-- CNH
-- DADOS BANCÁRIOS
-- DEPENDENTES
-- FICHA DISCIPLINAR
-- FATOS OBSERVADOS
-- CURSOS|ESTÁGIOS
-- CONTROLE SANITÁRIO
-- CARTÃO DE VACINA (NPOR)
-- CONTROLE DE FÉRIAS
-- VEÍCULOS QUE POSSUE
-- TIB|Fz 7.62 (NPOR)
-- TAF (TAF)
 
-## 3 - TABELA DE PERMISSÕES
+## 5 - TABELA DE PERMISSÕES
 <table class="table table-striped" style="width: 1187px;">
 <thead>
 <tr style="height: 15px;">
@@ -301,7 +289,7 @@
 </tbody>
 </table>
 
-## 4 - ESPECIFICAÇÕES TÉCNICAS
+## 6 - ESPECIFICAÇÕES TÉCNICAS
 <table class="table table-striped" style="width: 1187px;">
 <thead>
 <tr>
