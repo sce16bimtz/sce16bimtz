@@ -66,7 +66,7 @@
 #### - PLANO DE FÉRIAS
 #### - EXCLUSÃO 
 
-## 4 - GRUPOS DE DADOS NO FORMULÁRIO
+## 4 - OBSERVAÇÕES IMPORTANTES
 
 - PROFESP é tratado como destino, não como Pel ou SU;
 - Agregado, Encostado e Adido são tratados como destinos e agrupados em consultas no menu Situações especiais.
