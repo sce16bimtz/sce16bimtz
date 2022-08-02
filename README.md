@@ -3,8 +3,8 @@
 
 ## 1 - CARACTERÍSTICAS DO SISTEMA DE CONTROLE DE EFETIVO
 ### a. Foi concebido como a ferramenta de `controle diário` de efetivo do Sgte conforme determinação contida no Boletim Interno nº 143, de 29 de julho de 2022;
-### b. Nenhum sistema é perfeito, ou faz tudo, ou nos dá tudo;
-### c. Todo sistema faz aquilo que foi projetado para fazer;
+### b. Hospedado no servidor do batalhão e acessível pelo endereço http://10.46.40.35;
+### c. É simples e seguro;
 ### d. Como todo o sistema, o sce16bimtz também tem limitações;
 ### e. Não rivaliza com os sistemas corporativos em uso na força;
 ### f. Devido ao grande volume de dados manipulados não foi considerada a hipótese de disponibilizar as consultas para o público interno;
