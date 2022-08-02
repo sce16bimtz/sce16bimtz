@@ -362,14 +362,6 @@
 <td style="width: 378.833px;"><b>Senha do Banco de Dados</b></td>
 <td style="width: 791.167px;">Diferent@****#</td>
 </tr>
-<tr>
-<td style="width: 378.833px;"> </td>
-<td style="width: 791.167px;"> </td>
-</tr>
-<tr>
-<td style="width: 378.833px;"> </td>
-<td style="width: 791.167px;"> </td>
-</tr>
 </tbody>
 </table>
 
