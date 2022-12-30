@@ -72,6 +72,7 @@
 - Agregado, Encostado e Adido são tratados como destinos e agrupados em consultas no menu Situações especiais.
 - ST Artur deveria estar lotado no Pel Mnt Trnp e ter como destino ou função o Profesp a exemplo do Sgt Kaio.
 
+
 ## 5 - TABELA DE PERMISSÕES
 <table class="table table-striped" style="width: 1187px;">
 <thead>
